@@ -1,3 +1,19 @@
-123
-456
-qwe
+<Bug_report>
+        <ID> "223"</ID>
+        <Title>"Инструкция по изменению размеров виджета в раделе видео на экране Step 3 не соотвествует действительности"</Title>
+        <Project>Bitcoin price</Project>
+        <Steps>
+                "1. Long press по виджету"
+                </Steps>
+        <Enviroment>
+                "Redmi Note 10S, Androuid 11"
+        </Enviroment>
+        <Actual_result> "Появилась рамка для изменения размера виджета, как показано в обучающем видео на экране Step 3 и сообщении к нему"</Actual_result>
+        <Expected_result>"Появилась только возможность удалить виджет. Для изменения размера его надо переместить."</Expected_result>
+        <Severity>Minor</Severity>
+        <Priority>Low</Priority>
+        <Status>Open</Status>
+        <Author>Казенная Ирина</Author>
+        <Sign_to>Иван Иванов</Sign_to>
+        <Attachments>ссылка_на_картинку_или_видео_с_багом</Attachments>
+</Bug_report>
